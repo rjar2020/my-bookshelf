@@ -8,7 +8,9 @@
 6. ["Domain-Driven Design" by Eric Evans - 2013]
 7. ["Kubernetes Operators" by Jason Dobies, Joshua Wood - 2020]
 8. ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]
+9. ["High Output Management" by Andrew Grove (2nd Edition) - 1995]
 
+["High Output Management" by Andrew Grove (2nd Edition) - 1995]:https://g.co/kgs/D9F51u
 ["Accelerate" by Nicole Forsgren, Jez Humble, Gene Kim - 2018]:https://books.google.es/books/about/Accelerate.html?id=85XHAQAACAAJ&redir_esc=y
 ["Team Topologies" by Matthew Skelton and Manuel Pais - 2019]:https://teamtopologies.com/book
 ["The Manager's Path" by Camille Fournier - 2017]:https://www.oreilly.com/library/view/the-managers-path/9781491973882/
