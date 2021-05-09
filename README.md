@@ -1,16 +1,17 @@
 # My Bookshelf
 
-A record of the last twenty-seven (27) books I have read
+A record of the last twenty-seven (28) books I have read
 
-## Top 8
+## Top 9
 - ["Extreme Programming Explained: Embrace Change (2nd Edition)" by Kent Beck, Cynthia Andres - 2004]
+- ["Monolith to Microservices" by Sam Newman - 2019]
 - ["Accelerate" by Nicole Forsgren, Jez Humble, Gene Kim - 2018]
 - ["Homage to Catalonia" by George Orwell - 1938]
 - ["The Manager's Path" by Camille Fournier - 2017]
-- ["Domain-Driven Design" by Eric Evans - 2013]
 - ["Capital and Ideology" by Thomas Piketty (Catalan Edition) - 2019]
 - ["Sapiens: A Brief History of Humankind" by Yuval Noah Harari (Catalan Edition) - 2011]
 - ["Exhalation" by Ted Chiang (Catalan edition) - 2019]
+- ["Domain-Driven Design" by Eric Evans - 2013]
 
 ## By Year
 - [2021]
@@ -28,3 +29,4 @@ A record of the last twenty-seven (27) books I have read
 ["Capital and Ideology" by Thomas Piketty (Catalan Edition) - 2019]:https://g.co/kgs/Mg5afw
 ["Sapiens: A Brief History of Humankind" by Yuval Noah Harari (Catalan Edition) - 2011]:https://g.co/kgs/YGWdCF
 ["Exhalation" by Ted Chiang (Catalan edition) - 2019]:https://www.goodreads.com/en/book/show/41160292-exhalation
+["Monolith to Microservices" by Sam Newman - 2019]:https://g.co/kgs/WAB9Fe
