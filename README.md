@@ -1,6 +1,6 @@
 # My Bookshelf
 
-A record of the last twenty-seven (28) books I have read
+A record of the last twenty-eight (28) books I have read
 
 ## Top 9
 - ["Extreme Programming Explained: Embrace Change (2nd Edition)" by Kent Beck, Cynthia Andres - 2004]
