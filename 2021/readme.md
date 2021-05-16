@@ -11,6 +11,9 @@
 9.  ["High Output Management" by Andrew Grove (2nd Edition) - 1995]
 10. ["Monolith to Microservices" by Sam Newman - 2019]
 
+# Periodic Publications
+1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
+
 ["Monolith to Microservices" by Sam Newman - 2019]:https://g.co/kgs/WAB9Fe
 ["High Output Management" by Andrew Grove (2nd Edition) - 1995]:https://g.co/kgs/D9F51u
 ["Accelerate" by Nicole Forsgren, Jez Humble, Gene Kim - 2018]:https://books.google.es/books/about/Accelerate.html?id=85XHAQAACAAJ&redir_esc=y
@@ -21,3 +24,5 @@
 ["Domain-Driven Design" by Eric Evans - 2013]:https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/
 ["Kubernetes Operators" by Jason Dobies, Joshua Wood - 2020]:https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/
 ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]:https://valentinathoerner.com/from-a-distance-book-remote-leadership/
+
+["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
