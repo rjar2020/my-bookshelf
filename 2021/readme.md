@@ -10,6 +10,8 @@
 8.  ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]
 9.  ["High Output Management" by Andrew Grove (2nd Edition) - 1995]
 10. ["Monolith to Microservices" by Sam Newman - 2019]
+11. ["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]
+12. ["Resilient Management" by Lara Hogan - 2019]
 
 # Periodic Publications
 1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
@@ -24,5 +26,7 @@
 ["Domain-Driven Design" by Eric Evans - 2013]:https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/
 ["Kubernetes Operators" by Jason Dobies, Joshua Wood - 2020]:https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/
 ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]:https://valentinathoerner.com/from-a-distance-book-remote-leadership/
+["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]:https://g.co/kgs/aUaMXR
+["Resilient Management" by Lara Hogan - 2019]:https://resilient-management.com/
 
 ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
