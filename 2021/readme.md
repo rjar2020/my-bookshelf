@@ -12,6 +12,7 @@
 10. ["Monolith to Microservices" by Sam Newman - 2019]
 11. ["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]
 12. ["Resilient Management" by Lara Hogan - 2019]
+13. ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]
 
 # Periodic Publications
 1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
@@ -28,5 +29,6 @@
 ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]:https://valentinathoerner.com/from-a-distance-book-remote-leadership/
 ["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]:https://g.co/kgs/aUaMXR
 ["Resilient Management" by Lara Hogan - 2019]:https://resilient-management.com/
+["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]:https://learning.oreilly.com/library/view/become-an-effective/9781680507867/
 
 ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
