@@ -13,6 +13,7 @@
 11. ["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]
 12. ["Resilient Management" by Lara Hogan - 2019]
 13. ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]
+14. ["Test Driven Development: By Example" by Kent Beck - 2002]
 
 # Periodic Publications
 1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
@@ -30,5 +31,6 @@
 ["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]:https://g.co/kgs/aUaMXR
 ["Resilient Management" by Lara Hogan - 2019]:https://resilient-management.com/
 ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]:https://learning.oreilly.com/library/view/become-an-effective/9781680507867/
+["Test Driven Development: By Example" by Kent Beck - 2002]:https://learning.oreilly.com/library/view/test-driven-development/0321146530/
 
 ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
