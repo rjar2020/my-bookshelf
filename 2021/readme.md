@@ -1,19 +1,20 @@
 # Read in 2021
 
-1.  ["Accelerate" by Nicole Forsgren, Jez Humble, Gene Kim - 2018]
-2.  ["Team Topologies" by Matthew Skelton and Manuel Pais - 2019]
-3.  ["The Manager's Path" by Camille Fournier - 2017]
-4.  ["Exhalation" by Ted Chiang (Catalan edition) - 2019]
-5.  ["Measure What Matters" by John Doerr (For OKRs and CFRs implementation) - 2018]
-6.  ["Domain-Driven Design" by Eric Evans - 2013]
-7.  ["Kubernetes Operators" by Jason Dobies, Joshua Wood - 2020]
-8.  ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]
-9.  ["High Output Management" by Andrew Grove (2nd Edition) - 1995]
+1. ["Accelerate" by Nicole Forsgren, Jez Humble, Gene Kim - 2018]
+2. ["Team Topologies" by Matthew Skelton and Manuel Pais - 2019]
+3. ["The Manager's Path" by Camille Fournier - 2017]
+4. ["Exhalation" by Ted Chiang (Catalan edition) - 2019]
+5. ["Measure What Matters" by John Doerr (For OKRs and CFRs implementation) - 2018]
+6. ["Domain-Driven Design" by Eric Evans - 2013]
+7. ["Kubernetes Operators" by Jason Dobies, Joshua Wood - 2020]
+8. ["From a Distance - A practical guide for remote leadership" by Valentina Thörner - 2019]
+9. ["High Output Management" by Andrew Grove (2nd Edition) - 1995]
 10. ["Monolith to Microservices" by Sam Newman - 2019]
 11. ["Managing Humans: Biting and Humorous Tales of a Software Engineering Manager" by Michael Lopp (3rd edition) - 2016]
 12. ["Resilient Management" by Lara Hogan - 2019]
 13. ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]
 14. ["Test Driven Development: By Example" by Kent Beck - 2002]
+15. ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]
 
 # Periodic Publications
 1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
@@ -32,5 +33,6 @@
 ["Resilient Management" by Lara Hogan - 2019]:https://resilient-management.com/
 ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]:https://learning.oreilly.com/library/view/become-an-effective/9781680507867/
 ["Test Driven Development: By Example" by Kent Beck - 2002]:https://learning.oreilly.com/library/view/test-driven-development/0321146530/
+["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]:https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 
 ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
