@@ -15,6 +15,7 @@
 13. ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]
 14. ["Test Driven Development: By Example" by Kent Beck - 2002]
 15. ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]
+16. ["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]
 
 # Periodic Publications
 1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
@@ -34,5 +35,6 @@
 ["Become an Effective Software Engineering Manager" by Dr. James Stanier - 2020]:https://learning.oreilly.com/library/view/become-an-effective/9781680507867/
 ["Test Driven Development: By Example" by Kent Beck - 2002]:https://learning.oreilly.com/library/view/test-driven-development/0321146530/
 ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]:https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
+["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]:https://g.co/kgs/R4b52L
 
 ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
