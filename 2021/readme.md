@@ -18,7 +18,8 @@
 16. ["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]
 
 # Periodic Publications
-1. ["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]
+1. ["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]
+2. ["Containers" By Increment, an Stripe magazine - Issue 17, May, 2021]
 
 ["Monolith to Microservices" by Sam Newman - 2019]:https://g.co/kgs/WAB9Fe
 ["High Output Management" by Andrew Grove (2nd Edition) - 1995]:https://g.co/kgs/D9F51u
@@ -37,4 +38,5 @@
 ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]:https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 ["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]:https://g.co/kgs/R4b52L
 
-["Reliability" By Increment, published by Stripe - Issue 16, February, 2021]:https://increment.com/reliability/
+["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]:https://increment.com/reliability/
+["Containers" By Increment, an Stripe magazine - Issue 17, May, 2021]:https://increment.com/containers/
