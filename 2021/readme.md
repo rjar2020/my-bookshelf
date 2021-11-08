@@ -20,6 +20,7 @@
 # Periodic Publications
 1. ["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]
 2. ["Containers" By Increment, an Stripe magazine - Issue 17, May, 2021]
+3. ["Mobile" By Increment, an Stripe magazine - Issue 18, Aug, 2021]
 
 ["Monolith to Microservices" by Sam Newman - 2019]:https://g.co/kgs/WAB9Fe
 ["High Output Management" by Andrew Grove (2nd Edition) - 1995]:https://g.co/kgs/D9F51u
