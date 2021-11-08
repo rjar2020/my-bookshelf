@@ -40,3 +40,4 @@
 
 ["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]:https://increment.com/reliability/
 ["Containers" By Increment, an Stripe magazine - Issue 17, May, 2021]:https://increment.com/containers/
+["Mobile" By Increment, an Stripe magazine - Issue 18, Aug, 2021]:https://increment.com/mobile/
