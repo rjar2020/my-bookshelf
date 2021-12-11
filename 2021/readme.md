@@ -39,7 +39,7 @@
 ["Test Driven Development: By Example" by Kent Beck - 2002]:https://learning.oreilly.com/library/view/test-driven-development/0321146530/
 ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]:https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 ["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]:https://g.co/kgs/R4b52L
-["Bulding Microservices" by Sam Newman (2nd Edition) - 2021]:https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
+["Building Microservices" by Sam Newman (2nd Edition) - 2021]:https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
 
 ["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]:https://increment.com/reliability/
 ["Containers" By Increment, an Stripe magazine - Issue 17, May, 2021]:https://increment.com/containers/
