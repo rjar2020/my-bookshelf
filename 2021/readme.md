@@ -17,6 +17,7 @@
 15. ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]
 16. ["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]
 17. ["Building Microservices" by Sam Newman (2nd Edition) - 2021]
+18. ["What You Do Is Who You Are" by Ben Horowitz - 2019]
 
 # Periodic Publications
 1. ["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]
@@ -40,6 +41,7 @@
 ["The Pragmatic Programmer" by David Thomas & Andrew Hunt (2nd Edition) - 2019]:https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 ["Capital al segle XXI" (Capital in the Twenty-First Century) by Thomas Piketty (Catalan edition) - 2013]:https://g.co/kgs/R4b52L
 ["Building Microservices" by Sam Newman (2nd Edition) - 2021]:https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
+["What You Do Is Who You Are" by Ben Horowitz - 2019]:https://g.co/kgs/1iUgw6
 
 ["Reliability" By Increment, an Stripe magazine - Issue 16, February, 2021]:https://increment.com/reliability/
 ["Containers" By Increment, an Stripe magazine - Issue 17, May, 2021]:https://increment.com/containers/
