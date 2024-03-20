@@ -15,6 +15,7 @@ A record of the last forty-eight (48) books I have read
 - ["Domain-Driven Design" by Eric Evans - 2013]
 
 ## By Year
+- [2024]
 - [2023]
 - [2022]
 - [2021]
