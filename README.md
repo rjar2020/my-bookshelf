@@ -1,6 +1,6 @@
 # My Bookshelf
 
-A record of the last forty-seven (47) books I have read
+A record of the last forty-eight (48) books I have read
 
 ## Top 10
 - ["Extreme Programming Explained: Embrace Change (2nd Edition)" by Kent Beck, Cynthia Andres - 2004]
@@ -21,6 +21,7 @@ A record of the last forty-seven (47) books I have read
 - [2020]
 - [2019]
 
+[2024]: https://github.com/rjar2020/book-club/blob/main/2024/readme.md
 [2023]: https://github.com/rjar2020/book-club/blob/main/2023/readme.md
 [2022]: https://github.com/rjar2020/book-club/blob/main/2022/readme.md
 [2021]: https://github.com/rjar2020/book-club/blob/main/2021/readme.md
