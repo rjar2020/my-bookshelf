@@ -9,3 +9,9 @@
 ["In Praise of Shadows" by Jun'ichirō Tanizaki - (Elogi de L'ombra, Catalan edition, 2023) - 1933]:https://g.co/kgs/ZmsDXtm
 ["Convenience Store Woman" by Sayaka Murata - (La noia de la botiga 24 hores, Catalan edition, 2019) - 1933]:https://g.co/kgs/QoNxHM4
 ["An Elegant Puzzle: Systems of Engineering Management" by Will Larson - 2019]:https://g.co/kgs/GkYKdxp
+
+# Papers
+
+1. [Dynamo: Amazon’s Highly Available Key-value Store]
+
+[Dynamo: Amazon’s Highly Available Key-value Store]:https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
